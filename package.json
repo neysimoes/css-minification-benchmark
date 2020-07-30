@@ -24,7 +24,7 @@
   },
   "main": "lib/bench.js",
   "devDependencies": {
-    "clean-css": "3.4.x",
+    "clean-css": "4.2.x",
     "cli-table": "0.3.x",
     "colors": "1.1.x",
     "crass": "0.7.x",
